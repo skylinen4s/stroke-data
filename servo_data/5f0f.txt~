@@ -1,0 +1,37 @@
+式
+
+zero()
+moveTo(85, 130);
+riseUp(NO)
+moveTo(195, 110);
+riseUp(YES)
+
+moveTo(85, 165);
+riseUp(NO)
+moveTo(135, 155);
+riseUp(YES)
+
+moveTo(110, 165);
+riseUp(NO)
+moveTo(110, 200);
+riseUp(YES)
+
+moveTo(75, 215);
+riseUp(NO)
+moveTo(150, 185);
+riseUp(YES)
+
+moveTo(155, 65);
+riseUp(NO)
+moveTo(160, 120);
+moveTo(170, 175);
+moveTo(195, 215);
+moveTo(225, 235);
+moveTo(225, 195);
+riseUp(YES)
+
+moveTo(185, 75);
+riseUp(NO)
+moveTo(205, 95);
+riseUp(YES)
+

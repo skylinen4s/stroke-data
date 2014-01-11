@@ -1,0 +1,16 @@
+入
+
+zero()
+moveTo(140, 115);
+riseUp(NO)
+moveTo(125, 145);
+moveTo(60, 205);
+riseUp(YES)
+
+moveTo(110, 95);
+riseUp(NO)
+moveTo(125, 100);
+moveTo(195, 195);
+moveTo(240, 205);
+riseUp(YES)
+

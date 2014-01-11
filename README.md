@@ -1,6 +1,7 @@
 * 進階嵌入式系統課程 - Fall 2013
 * http://wiki.csie.ncku.edu.tw/embedded/team2013
-* 期末專題 第11組 第十一組
+* 期末專題 第11組 第十一組 - 自動寫字機
+* https://github.com/skylinen4s/AutoWrite
 
 ```make test```
 
